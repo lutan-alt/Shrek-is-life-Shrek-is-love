@@ -1,0 +1,20 @@
+#buscador{
+    display: flex;
+    justify-content: right;
+}
+#image1{
+    height: 450px;
+    width: 450px;
+}
+#image2{
+    height: 450px;
+    width: 450px;
+}
+#image3{
+    height: 450px;
+    width: 450px;
+}
+#image4{
+    height: 640px;
+    width: 1348px;
+}
